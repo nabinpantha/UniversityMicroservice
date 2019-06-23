@@ -53,13 +53,9 @@ public class UniversityResource {
 	
 	@RequestMapping("universityById")
 	public University getUniverityById(@RequestParam("id") int id){
-		University university = universityLogic.getUniverityById(id);
 		
+		return universityLogic.getUniverityById(id);
 		
-		
-		return university ;
-		
-	
 	}
 	}
 	
