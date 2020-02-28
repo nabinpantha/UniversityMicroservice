@@ -41,7 +41,7 @@ public class Address {
 		return "Address [street=" + street + ", city=" + city + ", state=" + state + ", country=" + country
 				+ ", postalCode=" + postalCode + "]";
 	}
-	
+	//changes required for git learning
 	
 
 }
