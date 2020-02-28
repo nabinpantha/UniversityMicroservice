@@ -12,6 +12,7 @@ public class CollegeApplicationTests {
 	@Test
 	public void contextLoads() {
 		System.out.println("Hey Guys Work Hard");
+System.out.println("Hey Guys Work Hard");
 	}
 
 }
