@@ -11,6 +11,7 @@ public class CollegeApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		//print out something
 	}
 
 }
