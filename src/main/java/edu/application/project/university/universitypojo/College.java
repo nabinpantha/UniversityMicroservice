@@ -27,5 +27,5 @@ public class College {
 		return "College [collegeName=" + collegeName + ", collegeId=" + collegeId + ", collegeCity=" + collegeCity
 				+ "]";
 	}
-
+//i love u
 }
